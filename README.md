@@ -1,4 +1,5 @@
 # PollApp
-Create's custom polling with real time voting.
-
-[pollapp.meteor.com](pollapp.meteor.com)
+Create's a custom polling with real time voting.
+Deployement
+===========
+- [pollapp.meteor.com](pollapp.meteor.com)
